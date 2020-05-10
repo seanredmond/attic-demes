@@ -8,9 +8,9 @@ Men's names were recorded in official inscriptions with patronymic (father's nam
 
 ## Files
 
-- tribes-data.tsv: Names of tribes in tab-delimited format
-- demes-data.tsv: Data on demes in tab-delimited format
-- demes-data.geojson: Data on locatable demes in geojson format
+- [tribes-data.tsv](https://github.com/seanredmond/attic-demes/blob/master/tribes-data.tsv): Names of tribes in tab-delimited format
+- [demes-data.tsv](https://github.com/seanredmond/attic-demes/blob/master/deme-data.tsv): Data on demes in tab-delimited format
+- [deme-data.geojson](https://github.com/seanredmond/attic-demes/blob/master/deme-data.geojson): Data on locatable demes in geojson format
 
 ## Sources
 
