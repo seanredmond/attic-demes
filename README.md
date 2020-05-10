@@ -1,6 +1,6 @@
 # Attic Demes Data
 
-Basic data on Attic Demes in TSV and GeoJSON, extracted from Traill (1975).
+Basic data on Attic Demes in TSV and GeoJSON, extracted from Traill (1975) and Whitehead (2014).
 
 For governmental purposes Ancient Attica (Athens and the surounding area) was divided after 508 BCE into 10 "tribes" (φυλαί), 3 "thirds" (τριττύες) and 149 "demes" (δῆμοι). Each deme was assigned to one of the three thirds (city, coast, or inland) and one of the tribes. The assignments were made so that every tribe countained city, coastal, and inland demes. When juries were selected, for instance, 50 citizens were selected by lot from each tribe (for a total of 500 jurors) and the jury could be expected to contain a good mix of demes and _trittyes_.
 
@@ -17,5 +17,7 @@ Men's names were recorded in official inscriptions with patronymic (father's nam
 ## Sources
 
 Traill, J. (1975). _The Political Organization of Attica: A Study of the Demes, Trittyes, and Phylai, and Their Representation in the Athenian Council_. Hesperia Supplements, 14. Princeton: American School of Classical Studies at Athens. doi:10.2307/1353928
+
+Whitehead, D. (2014). _The Demes of Attica, 508/7 -ca. 250 B.C.: A Political and Social Study_. (Course Book ed.). Princeton: Princeton University Press. muse.jhu.edu/book/35131.
 
 Roger Bagnall, et al., eds.(2020). _Pleiades: A Gazetteer of Past Places_, http://pleiades.stoa.org/
