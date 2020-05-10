@@ -6,6 +6,9 @@ For governmental purposes Ancient Attica (Athens and the surounding area) was di
 
 Men's names were recorded in official inscriptions with patronymic (father's name) and a demotic (deme name). For instance, the Athenian general Thrasybulus would be recorded as Θρασύβουλος Λύκου Στειριεύς _Thrasúboulos Lúkou Steirieús_, "Thrasybulus son of Lykos of Steiria." Women were excluded from full citizenship in Athens and they women appear in inscriptions they not named in this way.
 
+<script src="https://embed.github.com/view/geojson/seanredmond/attic-demes/master/deme-data.geojson"></script>
+
+
 ## Files
 
 - [tribes-data.tsv](https://github.com/seanredmond/attic-demes/blob/master/tribes-data.tsv): Names of tribes in tab-delimited format
